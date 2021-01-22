@@ -1,1 +1,1 @@
-INA219 current monitor upgrade for a vintage power supply I had.
+INA219 current monitor upgrade for a vintage power supply I have.
